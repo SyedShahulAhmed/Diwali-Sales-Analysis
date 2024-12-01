@@ -9,9 +9,7 @@ This project provides a comprehensive analysis of Diwali sales data to uncover v
 - **Programming Language:** Python  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
 - **Visualization:** Interactive graphs and charts  
-- **Data Source:** [Specify the source of your data, if applicable]  
 
----
 
 ## 🔍 Key Features  
 - Detailed exploration of sales patterns across categories, regions, and customer demographics.  
